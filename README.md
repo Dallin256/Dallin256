@@ -2,8 +2,8 @@
 <h3 align="center">An eager front end developer from southern America</h3>
 
 - I'm currently Learning **HTML CSS & JS**
-- School project [Spots](https://github.com/Dallin256/se_project_spots)
-- Spare time hobby project [The Master List](https://github.com/Dallin256/tml)
+- School project: [Spots](https://github.com/Dallin256/se_project_spots)
+- Spare time hobby project: [The Master List](https://github.com/Dallin256/tml)
 
 - Contact **dallinmelton@yahoo.com**
 
