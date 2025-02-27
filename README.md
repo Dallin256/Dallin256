@@ -1,10 +1,8 @@
 <h1 align="center">Greetings! I am Dallin K. Melton</h1>
 <h3 align="center">An eager front end developer from southern America</h3>
 
-- School project [Spots](https://github.com/Dallin256/se_project_spots)
-
 - I'm currently Learning **HTML CSS & JS**
-
+- School project [Spots](https://github.com/Dallin256/se_project_spots)
 - Spare time hobby project [The Master List](https://github.com/Dallin256/tml)
 
 - Contact **dallinmelton@yahoo.com**
