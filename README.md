@@ -18,7 +18,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="Rust" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img alt="Rust" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"></a></p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dallin256&" alt="dallin256" width="40px" height="40px" />
 </p>
