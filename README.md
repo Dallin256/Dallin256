@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I am Dallin K. Melton</h1>
-<h3 align="center">An eager front end developer from southern America</h3>
+<h3 align="center">An eager front end developer from the southern United States</h3>
 
 - I'm currently Learning **HTML CSS & JS**
 - School project: [Spots](https://github.com/Dallin256/se_project_spots)
